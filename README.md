@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# DevConnector 2.0 Clone
 
 > Social network for developers
 
@@ -6,9 +6,7 @@ This is a MERN stack application from the "MERN Stack Front To Back" . It is a s
 
 
 
-### Author
 
-Ishaan Kaul
 
 
 
